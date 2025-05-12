@@ -2,11 +2,11 @@
 
 
 :root {
---primary-color: #026773;
+--primary-color: #20d6eb;
 --secondary-color: #3CA6A6;
 --text-color: #024959;
---background-color: #F2E3D5;
---button-hover: #012E40;
+--background-color: #af5e2c;
+--button-hover: #1cbfff;
 --font-body: "Chocolate Classical Sans", serif;
 --font-titulo: "Rakkas", serif;
 }
@@ -93,7 +93,7 @@ width: 100%;
 
 
 .conteudo {
-background-color: white;
+background-color: rgb(68, 4, 4);
 padding: 20px;
 margin: 20px 0;
 border-radius: 8px;
